@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter / Colab checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+
+# VSCode settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and runtime files
+*.log
+
+# Cache
+*.egg-info/
+*.egg
+*.pkl
+*.pt
+.cache/
