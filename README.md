@@ -61,7 +61,7 @@ This project requires Python 3.8+ and PyTorch. You can set up the environment wi
 pip install torch
 ```
 
-All other dependencies are standard and should work in a basic Python environment (especially Google Colab).
+All other dependencies are standard and should work in a basic Python environment.
 
 ---
 
